@@ -6,4 +6,4 @@ Segui algumas das formações que a Alura oferece.
 ## Sumário
 
 * Formação Data Science - [https://cursos.alura.com.br/formacao-data-science](https://cursos.alura.com.br/formacao-data-science)
-
+* Formação Machine Learning - [https://cursos.alura.com.br/formacao-machine-learning]
